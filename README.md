@@ -14,12 +14,10 @@ Many other things....
 <h1><b>Dataset Info.</b></h1>
 <p>The NETFLIX dataset has information about the TV shows and movies available on NETFLIX till 2021.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvamers.com%2F2018%2F01%2F23%2Fflixable-search-netflix%2F&psig=AOvVaw22vBiTC4mqSjKaMIsDgLox&ust=1690632930229000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDAgcywsYADFQAAAAAdAAAAABAE" height="300px" width="390px"/>
-
 The dataset is collected from <b>Flixable</b> which is a third party Netflix search engine , and available on Kaggle website for free.</p>
 
 <h1><b>Tools Used</b></h1>
 <ul>
 <li>Pandas</li>
 <li>Matplotlib</li>
-<li>Seaborn</li>li
+<li>Seaborn</li>
