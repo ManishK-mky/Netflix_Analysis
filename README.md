@@ -1,6 +1,6 @@
 <h1> Netflix_Analysis</h1><br>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Fnetflix&psig=AOvVaw3_xjv8ExiTffgw1t6f1hof&ust=1690633004313000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiIv--wsYADFQAAAAAdAAAAABAE" height="300px" width="390px">
+![Nhi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Fnetflix&psig=AOvVaw3_xjv8ExiTffgw1t6f1hof&ust=1690633004313000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiIv--wsYADFQAAAAAdAAAAABAE)
 
 <p>Netflix is a well-known subscription-based streaming service in the United States that offers a vast collection of films, TV shows, documentaries, and other types of entertainment material. Reed Hastings and Marc Randolph launched it in Scotts Valley, California, in 1997.
 </p>
